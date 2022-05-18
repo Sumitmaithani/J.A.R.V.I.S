@@ -1,5 +1,5 @@
 ### MekaVerse
-visit website : https://mekaverse.netlify.app
+visit website : https://jarvis2point0.netlify.app
 
 J.A.R.V.I.S is a Artificial intelligence React news website using Alan AI. In this website you can talk with Jarvis and get information. It's AI speech recognition software that allows us to add voice capabilities to our website. It allows us to control absolutely everything in the website using our voice.
 
@@ -22,9 +22,9 @@ Jarvis is a news website for responsing correctly you can ask following commands
 * for calulation : "calculate a (plus/divide/minus/multiply) 
 
 ## Features:
-It can read articles for that you only say "yes" when jarvis ask you.
-You also say "Open article number {NUMBER}." it open article in new tab.
-You can say "back" in search page and it back you in home screen.
+* It can read articles for that you only say "yes" when jarvis ask you.
+* You also say "Open article number {NUMBER}." it open article in new tab.
+* You can say "back" in search page and it back you in home screen.
 
 
 
