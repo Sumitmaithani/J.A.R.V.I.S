@@ -1,0 +1,24 @@
+.cmd-container {
+  padding: 0 5%;
+  width: 100%;
+  margin: 0;
+}
+.cmd-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 40vh;
+  padding: 10%;
+  border-radius: 10;
+  color: white;
+}
+.cmd-infoCard{
+  display: flex; 
+  flex-direction: column; 
+  text-align: center;
+};
+.homepage{
+  width: 100vh;
+}

@@ -1,0 +1,47 @@
+#root,
+html,
+body {
+    height: 100vh;
+}
+
+body {
+    margin: 0;
+    background-color: whitesmoke;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.logoContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.alanLogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    margin-top: 20px;
+    padding: 10px;
+
+}
+
+.jarvis {
+    color: white;
+    text-align: center;
+    font-weight: 1000;
+    z-index: 99999000;
+}
+
+.logo-app {
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
