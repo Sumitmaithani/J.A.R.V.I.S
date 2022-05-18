@@ -1,4 +1,4 @@
-### MekaVerse
+### J.A.R.V.I.S
 visit website : https://jarvis2point0.netlify.app
 
 J.A.R.V.I.S is a Artificial intelligence React news website using Alan AI. In this website you can talk with Jarvis and get information. It's AI speech recognition software that allows us to add voice capabilities to our website. It allows us to control absolutely everything in the website using our voice.
