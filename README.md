@@ -2,12 +2,15 @@
 visit website : https://jarvis2point0.netlify.app
 
 J.A.R.V.I.S is a Artificial intelligence React news website using Alan AI. In this website you can talk with Jarvis and get information. It's AI speech recognition software that allows us to add voice capabilities to our website. It allows us to control absolutely everything in the website using our voice.
+
 ![Jarvis - Google Chrome 5_18_2022 11_47_34 AM](https://user-images.githubusercontent.com/86047367/168970792-599a5280-90b3-471a-8699-5fdf46cc5d04.png)
-![Uploading Jarvis - Google Chrome 5_18_2022 11_48_00 AM.png…]()
-![Uploading Jarvis - Google Chrome 5_18_2022 11_49_48 AM.png…]()
+![Jarvis - Google Chrome 5_18_2022 11_48_00 AM](https://user-images.githubusercontent.com/86047367/168971718-e6698f27-bbbe-4583-bbb5-ec6643a0a8c6.png)
+![Jarvis - Google Chrome 5_18_2022 11_49_48 AM](https://user-images.githubusercontent.com/86047367/168971880-eeaa615f-d8d0-4a8d-87dd-039b522ad7a7.png)
+
 
 ## Tech stack used
 React and Alan AI
+
 
 # API's
 NewsApi, CoinDesk api
